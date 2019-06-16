@@ -7,9 +7,9 @@ border: 200px;
 }
 #primery-main {
     margin: 10px;
-  height: 400px;
+  
   padding: 20px;
-  background-color: aliceblue;
+  background-color: rgb(47, 58, 68);
   display: inline;  
   display: grid;
   grid-template-columns: repeat(2, 1fr);
